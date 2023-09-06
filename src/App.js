@@ -3,14 +3,14 @@ import PdfViewerComponent from "./components/PdfViewerComponent";
 import "./App.css";
 
 function App() {
-  const [document, setDocument] = useState("document.pdf");
+  const [document, setDocument] = useState("document2.pdf");
 
   const handleOpen = () => setDocument("another-example.pdf");
 
   return (
     <div className="App">
       <button className="App-button" onClick={handleOpen}>
-        Open another document
+        Softradix PDF editor
       </button>
       <div className="App-viewer">
         <PdfViewerComponent document={document} />
