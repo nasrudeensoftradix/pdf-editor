@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pdf-editor/static/css/main.18076e00.css",
+    "main.js": "/pdf-editor/static/js/main.f044f110.js",
+    "index.html": "/pdf-editor/index.html",
+    "main.18076e00.css.map": "/pdf-editor/static/css/main.18076e00.css.map",
+    "main.f044f110.js.map": "/pdf-editor/static/js/main.f044f110.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18076e00.css",
+    "static/js/main.f044f110.js"
+  ]
+}
